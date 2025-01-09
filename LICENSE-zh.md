@@ -2,7 +2,24 @@
 > 
 > 译文链接：https://www.maoken.com/ofl
 
-版权所有©2024，Takushun Wu(https://github.com/takushun-wu/)，并保留字型名“WenYuan Gothic”、“<span lang="zh-Hans">文源黑体</span>”、“WenYuan Mincho”、“<span lang="zh-Hans">文源宋体</span>”、“WenYuan Maru”、“<span lang="zh-Hans">文源圆体</span>”。
+版权所有©2024-2025，Takushun Wu(https://github.com/takushun-wu/)，并保留字型名称“WenYuan Gothic”、“<span lang="zh-Hans">文源黑体</span>”、“WenYuan Mincho”、“<span lang="zh-Hans">文源宋体</span>”、“WenYuan Maru”、“<span lang="zh-Hans">文源圆体</span>”。
+
+版权所有©2010-2024，Adobe (http://www.adobe.com/)，并保留字体名称“Source”。所有权利保留。“Source”是Adobe在美国和/或其他国家和地区的商标。
+
+版权所有©2021-2024，Tamcy (https://github.com/chiron-fonts/chiron-sung-hk)。
+
+版权所有©2022-2024，Shanggu Fonts (https://github.com/GuiWonder/Shanggu)。
+
+版权所有©2007–2024，Adobe、But Ko、CMEX、Creative Commons Corporation、GlyphWiki和Night Koo。
+
+版权所有©2020-2024，遍黑体项目(https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic,
+https://jq.qq.com/?_wv=1027&k=xRTzFAfD)和Fitzgerald Yu (374601620@qqq.com)，并保留字型名称“Plangothic”和“遍黑”。Plangothic是Fitzgerald P. Köeingsegg的商标。
+
+版权所有©2022，Buernia (https://github.com/Buernia)，并保留字型名称“Zhudou”和“煮豆”。
+
+版权所有©2020，Celestial Phineas。
+
+版权所有©2022，Noto项目作者(https://github.com/notofonts/thai, https://github.com/notofonts/khmer)。Noto是Google Inc的商标。
 &nbsp;
 
 

@@ -1,5 +1,25 @@
-Copyright (c) 2024, Takushun Wu (https://github.com/takushun-wu/),
+Copyright (c) 2024-2025, Takushun Wu (https://github.com/takushun-wu/),
 with Reserved Font Name 'WenYuan Gothic', '<span lang="zh-Hans">文源黑体</span>', 'WenYuan Mincho', '<span lang="zh-Hans">文源宋体</span>', 'WenYuan Maru', '<span lang="zh-Hans">文源圆体</span>'.
+
+Copyright 2010-2024 Adobe (http://www.adobe.com/), with Reserved Font
+Name 'Source'. All Rights Reserved. Source is a trademark of Adobe in the United States
+and/or other countries.
+
+Copyright 2021-2024 Tamcy (https://github.com/chiron-fonts/chiron-sung-hk).
+
+Copyright 2022-2024 Shanggu Fonts (https://github.com/GuiWonder/Shanggu).
+
+© 2007–2024 Adobe, But Ko, CMEX, Creative Commons Corporation, GlyphWiki & Night Koo.
+
+Copyright (c) 2020-2024 Plangothic project (https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic,
+https://jq.qq.com/?_wv=1027&k=xRTzFAfD) and Fitzgerald Yu (374601620@qqq.com), 
+with Reserved Font Names "Plangothic" and "遍黑". Plangothic is a trademark of Fitzgerald P. Köeingsegg.
+
+Copyright © 2022 Buernia (https://github.com/Buernia), with Reserved Font Name 'Zhudou' and '煮豆'.
+
+Copyright (c) 2020, Celestial Phineas.
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/thai, https://github.com/notofonts/khmer). Noto is a trademark of Google Inc.
 &nbsp;
 
 
