@@ -28,6 +28,12 @@
 
 ## 安装指南
 ### 静态字体
+> [!CAUTION]
+>
+> 2026年2月16日起，缩窄间距版（C版）将不再更新，在此之前发布的C版即为最后一个版本。恳请使用C版的用户尽快更新替换成标准版本，尽量使用较新版本的软件，同时保持字体版本最新。作者在此为您带来的不便深表歉意。
+>
+> 如果您在替换标准版本存在困难（如新版软件存在不兼容的困扰），可自行对标准版字体文件进行适当改动，以符合您的需求。注意改作版本仍需遵守字体附带的协议（如OFL字体的改作版仍必须选择OFL协议）。
+
 本字体分为标准版OTF（PostScript曲线）、标准版TTF（TrueType曲线）以及缩窄间距版TTF版本。用户可根据实际情况任选其一安装。
 
 版本选择建议：
@@ -39,7 +45,7 @@
 文源黑体和文源宋体现已包含可变版本。可变字体分为OTF（CFF2曲线）和TTF（TrueType曲线）版本，用户可根据实际情况任选其一安装。
 
 > 可变字体最低系统需求：
-> - **Windows**：Windows 10 1709版及以上；Windows 11任意版本
+> - **Windows**：Windows 10 1709版及以上、Windows 11任意版本；
 > - **Linux**：FreeType 2.8版本以上；
 > - **macOS**：10.5以上（Safari版本需11以上，且macOS最低需要10.13）；
 > - **iOS**：3.2以上（Safari版本需11以上）；
@@ -48,7 +54,12 @@
 > [点击此处查看详细情况](https://v-fonts.com/support)
 
 - OTF可变版：Windows需要安装[KB5032278补丁](https://catalog.update.microsoft.com/Search.aspx?q=kb5032278)才能良好支持。如您在Windows系统未安装该补丁或者OTF可变版在您的设备出现空白、不支持等异常现象，请选择TTF可变版。在不支持可变字体的系统可能无法使用。
-- TTF可变版：支持可变字体的系统都可支持。在不支持可变字体的系统中只会显示单一字重（最细）。
+- TTF可变版：支持可变字体的系统都可支持。在不支持可变字体的系统中只会显示单一字重（最细）。字符形较多的TTF可变字体在Windows字体查看器和较旧的Windows版应用程序上会出现无法查看/使用多字重实例的情况。
+> 参考链接：
+>
+> https://github.com/adobe-fonts/source-han-sans/issues/317
+>
+> https://github.com/GuiWonder/Shanggu/issues/37
 
 ## 字体授权
 本字体以[SIL Open Font License（SIL开源字型授权）](https://openfontlicense.org/open-font-license-official-text/)授权形式发布。**任何个人、企业、团队等对本字体进行使用、复制、修改、分发等任意用途即视为您已完全阅读、充分理解并同意SIL Open Font License授权协议，并保证不作出任何异议，同时您还理解并同意：当您违反SIL Open Font License授权协议任意一条条款时将严格按照SIL Open Font License授权协议的有关规定进行处理，必要时作者可追究您的民事和/或刑事责任。**

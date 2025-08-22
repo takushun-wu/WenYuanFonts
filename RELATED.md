@@ -13,7 +13,6 @@
 - 思源黑体及其衍生版本：
     - [原版（也包含v1.00x版本）](https://github.com/adobe-fonts/source-han-sans)
     - [昭源黑体](https://github.com/chiron-fonts/chiron-hei-hk)
-    - [遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic-Project)
     - [未来荧黑](https://github.com/welai/glow-sans)
 - 相关西文字体：
     - [Source Sans 3](https://github.com/adobe-fonts/source-sans)
@@ -34,5 +33,6 @@
 - [FontForge](https://fontforge.org/en-US/)
 - [AFDKO](https://github.com/adobe-type-tools/afdko)
 - [fontTools](https://github.com/fonttools/fonttools)
+- [Fontra](https://github.com/googlefonts/fontra)
 
 <font size="2">**注：** 本页面提到的字体等资源可能包含商标，且这些商标是由各自的商标持有人所有。</font>
