@@ -13,7 +13,9 @@ Copyright 2022-2024 Shanggu Fonts (https://github.com/GuiWonder/Shanggu).
 
 Copyright (c) 2020, Celestial Phineas.
 
-Copyright 2022 The Noto Project Authors (https://github.com/notofonts/thai, https://github.com/notofonts/khmer). Noto is a trademark of Google Inc.
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/). Noto is a trademark of Google Inc.
+
+Saudi Riyal Font © Emran Alhaddad - Used under SIL Open Font License 1.1
 &nbsp;
 
 

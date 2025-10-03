@@ -14,7 +14,9 @@
 
 版权所有©2020，Celestial Phineas。
 
-版权所有©2022，Noto项目作者(https://github.com/notofonts/thai, https://github.com/notofonts/khmer)。Noto是Google Inc的商标。
+版权所有©2022，Noto项目作者(https://github.com/notofonts/)。Noto是Google Inc的商标。
+
+Saudi Riyal Font © Emran Alhaddad - 在《SIL开源字型授权》1.1版下使用
 &nbsp;
 
 

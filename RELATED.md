@@ -21,6 +21,7 @@
 - 其他字体：
     - [Noto Sans/Serif Thai](https://github.com/notofonts/thai)
     - [Noto Sans/Serif Khmer](https://github.com/notofonts/khmer)
+    - [Saudi Riyal Font](https://github.com/emran-alhaddad/Saudi-Riyal-Font)
 ### 资料与数据（部分）
 - [Unicode官方码表](https://www.unicode.org/charts/)
 - [Unicode表意文字异体数据库](https://www.unicode.org/ivd/)
