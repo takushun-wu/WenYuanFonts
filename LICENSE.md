@@ -1,13 +1,13 @@
-Copyright (c) 2024-2025, Takushun Wu (https://github.com/takushun-wu/),
+Copyright (c) 2024-2026, Takushun Wu (https://github.com/takushun-wu/),
 with Reserved Font Name 'WenYuan Sans', '<span lang="zh-Hans">文源黑体</span>', 'WenYuan Serif', '<span lang="zh-Hans">文源宋体</span>', 'WenYuan Rounded', '<span lang="zh-Hans">文源圆体</span>'.
 
-Copyright 2010-2024 Adobe (http://www.adobe.com/), with Reserved Font
+Copyright 2010-2025 Adobe (http://www.adobe.com/), with Reserved Font
 Name 'Source'. All Rights Reserved. Source is a trademark of Adobe in the United States
 and/or other countries.
 
-Copyright 2021-2024 Tamcy (https://github.com/chiron-fonts/chiron-sung-hk).
+Copyright 2021-2025 Tamcy (https://github.com/chiron-fonts/chiron-sung-hk).
 
-Copyright 2022-2024 Shanggu Fonts (https://github.com/GuiWonder/Shanggu).
+Copyright 2022-2025 Shanggu Fonts (https://github.com/GuiWonder/Shanggu).
 
 © 2007–2024 Adobe, But Ko, CMEX, Creative Commons Corporation, GlyphWiki & Night Koo.
 
