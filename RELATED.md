@@ -13,7 +13,6 @@
 - 思源黑体及其衍生版本：
     - [原版（也包含v1.00x版本）](https://github.com/adobe-fonts/source-han-sans)
     - [昭源黑体](https://github.com/chiron-fonts/chiron-hei-hk)
-    - [未来荧黑](https://github.com/welai/glow-sans)
 - 相关西文字体：
     - [Source Sans 3](https://github.com/adobe-fonts/source-sans)
     - [Source Serif 4](https://github.com/adobe-fonts/source-serif)

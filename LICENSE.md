@@ -11,8 +11,6 @@ Copyright 2022-2025 Shanggu Fonts (https://github.com/GuiWonder/Shanggu).
 
 © 2007–2024 Adobe, But Ko, CMEX, Creative Commons Corporation, GlyphWiki & Night Koo.
 
-Copyright (c) 2020, Celestial Phineas.
-
 Copyright 2022 The Noto Project Authors (https://github.com/notofonts/). Noto is a trademark of Google Inc.
 
 Saudi Riyal Font © Emran Alhaddad - Used under SIL Open Font License 1.1
