@@ -17,6 +17,7 @@
     - [Source Sans 3](https://github.com/adobe-fonts/source-sans)
     - [Source Serif 4](https://github.com/adobe-fonts/source-serif)
     - [Nozomu Katō修改的Source Serif](https://github.com/adobe-fonts/source-serif-pro/files/2654477/suppglyphs.zip)，[原文地址](https://github.com/adobe-fonts/source-serif/issues/22#issuecomment-444993639)
+    - [SN Pro](https://github.com/supernotes/sn-pro)
 - 其他字体：
     - [Noto Sans/Serif Thai](https://github.com/notofonts/thai)
     - [Noto Sans/Serif Khmer](https://github.com/notofonts/khmer)
@@ -33,6 +34,7 @@
 - [FontForge](https://fontforge.org/en-US/)
 - [AFDKO](https://github.com/adobe-type-tools/afdko)
 - [fontTools](https://github.com/fonttools/fonttools)
-- [Fontra](https://github.com/googlefonts/fontra)
+- [Fontra](https://github.com/fontra/fontra)
+- [ufo2ft](https://github.com/googlefonts/ufo2ft)
 
 <font size="2">**注：** 本页面提到的字体等资源可能包含商标，且这些商标是由各自的商标持有人所有。</font>

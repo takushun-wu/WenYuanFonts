@@ -15,6 +15,8 @@
 版权所有©2022，Noto项目作者(https://github.com/notofonts/)。Noto是Google Inc的商标。
 
 Saudi Riyal Font © Emran Alhaddad - 在《SIL开源字型授权》1.1版下使用
+
+版权所有©2024，SN Pro项目作者(https://github.com/supernotes/sn-pro)。
 &nbsp;
 
 
