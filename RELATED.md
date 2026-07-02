@@ -29,7 +29,7 @@
 - [Unihan相关数据库](https://www.unicode.org/Public/15.1.0/ucd/Unihan.zip)
 - [字统网](https://zi.tools/)
 
-扩展B~I部分扩展字请详见[文源字体支持的扩展字字表（PDF）](doc/extchars.pdf)。
+扩展B~I部分扩展字请详见[文渊字体支持的扩展字字表（PDF）](doc/extchars.pdf)。
 ### 字体编辑/处理工具
 - [FontForge](https://fontforge.org/en-US/)
 - [AFDKO](https://github.com/adobe-type-tools/afdko)

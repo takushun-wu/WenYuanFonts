@@ -1,5 +1,5 @@
 Copyright (c) 2024-2026, Takushun Wu (https://github.com/takushun-wu/),
-with Reserved Font Name 'WenYuan Sans', '<span lang="zh-Hans">文源黑体</span>', 'WenYuan Serif', '<span lang="zh-Hans">文源宋体</span>', 'WenYuan Rounded', '<span lang="zh-Hans">文源圆体</span>'.
+with Reserved Font Name 'WenYuan Sans', '<span lang="zh-Hans">文渊黑体</span>', 'WenYuan Serif', '<span lang="zh-Hans">文渊宋体</span>', 'WenYuan Rounded', '<span lang="zh-Hans">文渊圆体</span>'.
 
 Copyright 2010-2025 Adobe (http://www.adobe.com/), with Reserved Font
 Name 'Source'. All Rights Reserved. Source is a trademark of Adobe in the United States

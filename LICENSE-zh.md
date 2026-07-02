@@ -2,7 +2,7 @@
 > 
 > 译文链接：https://www.maoken.com/ofl
 
-版权所有©2024-2026，Takushun Wu(https://github.com/takushun-wu/)，并保留字型名称“WenYuan Sans”、“<span lang="zh-Hans">文源黑体</span>”、“WenYuan Serif”、“<span lang="zh-Hans">文源宋体</span>”、“WenYuan Rounded”、“<span lang="zh-Hans">文源圆体</span>”。
+版权所有©2024-2026，Takushun Wu(https://github.com/takushun-wu/)，并保留字型名称“WenYuan Sans”、“<span lang="zh-Hans">文渊黑体</span>”、“WenYuan Serif”、“<span lang="zh-Hans">文渊宋体</span>”、“WenYuan Rounded”、“<span lang="zh-Hans">文渊圆体</span>”。
 
 版权所有©2010-2025，Adobe (http://www.adobe.com/)，并保留字体名称“Source”。所有权利保留。“Source”是Adobe在美国和/或其他国家和地区的商标。
 
